@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER anjola.awofisoye@sky.uk
+MAINTAINER anjola.awofisoye@gmail.com
 
 RUN apt-get update && \
 	apt-get install -y openjdk-8-jdk ant && \
