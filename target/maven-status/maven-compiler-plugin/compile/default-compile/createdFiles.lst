@@ -1,0 +1,12 @@
+com\selenium\test\configuration\properties\PropertiesLoader.class
+com\selenium\test\webtestsbase\WebDriverFactory.class
+com\selenium\test\webtestsbase\CapabilitiesGenerator$1.class
+com\selenium\test\configuration\properties\Property.class
+com\selenium\test\configuration\TestsConfig.class
+com\selenium\test\webtestsbase\BasePage.class
+com\selenium\test\webtestsbase\WebDriverFactory$1.class
+com\selenium\test\exceptions\TestsConfigurationException.class
+com\selenium\test\utils\TimeUtils.class
+com\selenium\test\webtestsbase\CapabilitiesGenerator.class
+com\selenium\test\webtestsbase\Browser.class
+com\selenium\test\configuration\properties\PropertyFile.class
